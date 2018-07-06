@@ -1,13 +1,13 @@
 # Site settings
-title: Comical Jekyll Theme
+title: Crowded Void - The Comic Series  
 email: 
 
 keywords: webcomic, comic
 description: > # this means to ignore newlines until "baseurl:"
-  A webcomic theme for jekyll.
+  A webcomic by Mike West
 
 
-baseurl: https://chrisanthropic.github.io/comical-jekyll-theme
+baseurl: https://theoriginalmoser.github.io/cvtestdev/
 url: / #Leave this, change the baseurl.
 
 # Exclude our ruby stuff
